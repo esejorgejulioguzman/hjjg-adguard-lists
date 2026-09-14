@@ -1,0 +1,26 @@
+! HJJG - Video
+! E.S.E. Hospital Jorge Julio Guzmán
+! Lista institucional de bloqueo DNS
+
+||dailymotion.com^
+||youtube.com^
+||rumble.com^
+||peertube.tv^
+||bilibili.tv^
+||odysee.com^
+||wistia.com^
+||tiktok.com^
+||kwai.com^
+||vimeo.com^
+||d.tube^
+||bilibili.com^
+||youtube-nocookie.com^
+||youtu.be^
+||twitch.tv^
+||kick.com^
+||dtube.video^
+||joinpeertube.org^
+||fast.wistia.com^
+||tiktokcdn.com^
+||kwai.net^
+||m.youtube.com^
