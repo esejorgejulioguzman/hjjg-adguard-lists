@@ -1,4 +1,4 @@
-! HJJG - Streaming
+! HJJG - Peliculas y Series
 ! E.S.E. Hospital Jorge Julio Guzmán
 ! Lista institucional de bloqueo DNS
 
